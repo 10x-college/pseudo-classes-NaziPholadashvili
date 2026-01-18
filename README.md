@@ -88,12 +88,12 @@
 
 გადაიღეთ აწყობილი გვერდის სქრინშოთი.
 
-დაარქვით ფაილს სახელი: preview.png
+დაარქვით ფაილს სახელი: preview.png (./ass)
 
 ატვირთეთ ეს სურათი თქვენს GitHub რეპოზიტორიაში, კოდის ფაილებთან ერთად.
 
 ჩასვით სურათი README.md ფაილში.
-
+![Preview Image](davaleba-pseudo-classes(Nazi.Pholadashvili)/assets/preview.png)
 ✅ მიღების კრიტერიუმები (Acceptance Criteria)
 
 დავალება ჩაითვლება მიღებულად, თუ:
